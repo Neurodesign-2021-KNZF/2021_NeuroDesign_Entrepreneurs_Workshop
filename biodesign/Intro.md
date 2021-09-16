@@ -43,11 +43,11 @@ Notes from [*Biodesign: The Process of Innovating Medical Technologies* pgs 1-46
   - challenges: imports account for 80% of the value of all devices sold within India, much of which may niot appropriately address needs, distribution and business models need to be sustainable, business model innovation is difficult 
   - tactics:search for needs in country, go deep on stakeholder analysis, keep innovating beyon the technology
 - **Japan**
-  - challenges: 
-  - tactics:
+  - challenges: language barrier, not all forms and guidelines are readily available in other languages, companies must often depend on CRO's,Device regulation throught PMDA is lengthy, extensive documentation, relatively few innovations in medtech, more R&D focused
+  - tactics:credibility/support matters, actively leverage in country connections, plan ahead when it comes to regulation, take into account patent, clinical trial, regulatory possibly burdensome
 - **Latin America**
-  - challenges: 
-  - tactics:
+  - challenges: Countries are incredibly diverse, offering significantly different levels of opportunity, stability, competitiveness, regulatory approval can be confusing/unexplained delays, IP protection
+  - tactics:conduct an in-market experiment, establish a foundation in a single market (Brazil or Mexico), then expand, capitalize on government incentives 
 
  
 
