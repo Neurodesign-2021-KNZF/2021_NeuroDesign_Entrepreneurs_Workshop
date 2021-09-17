@@ -18,6 +18,27 @@ in choosing a strategic focus.
 - **Define Strengths and Weaknesses**
   - Fundamentally, the most important objective of this step is to identify where certain competency gaps and opportunities exist so that the innovator can address them when the time is right. 
 
+**Defining Acceptance Criteria**
+- acceptance criteria are conditions that must be met to make an innovation project attractive to the innovator based on what the innovators have learned about themselves by conducting the personal inventory and considering the external environment (regulatory, reimbursement, access to capital, etc)
+- no one size fits all set of acceptance criteria; however, common themes include: 
+    - fit with innovator's mission and capabilities, effect on improving health outcomes, effect on affordability/accessibility of care, time/resources required to achieve results, customers that need to be cultivated, revenue/market size targets, anticipated market growth, market dynamics and competition 
+  - **aside:** [Choosing a project](https://bitsandbrains.io/2018/08/31/sig-and-feas.html)
+    - **Feasibility**
+      - The probability that you can complete the project given your current resources/constraints.
+      - resources include background knowledge, knowledge you have access to, collaborators
+      - constraints include time and energy
+    - **Significance**
+       -How important , for the world, successful completion of the project will be
+      - Significance = # of people impacted x impact per person
+    - **Intrinsic Motivation**
+      - The more intrinsic motivation you have the more likely you are able to complete the project excellently
+- example acceptance criteria: 
+  - has a total potential market of $1 B or more
+  - technologies in this space have a relatively well understood regulatory pathway 
+  - significantly expand access to healthcare in areas where treatments exist but have been previously unaffordable 
+
+
+
 ### Needs Exploration 
 
 
