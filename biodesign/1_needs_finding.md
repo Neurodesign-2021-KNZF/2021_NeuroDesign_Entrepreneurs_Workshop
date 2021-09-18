@@ -36,8 +36,20 @@ in choosing a strategic focus.
   - has a total potential market of $1 B or more
   - technologies in this space have a relatively well understood regulatory pathway 
   - significantly expand access to healthcare in areas where treatments exist but have been previously unaffordable 
+  
+**Evaluating opportunities against acceptance criteria**
+- Innovators are encouraged to consider a broad range of possibilities, keeping in mind that deep expertise in a field is not necessarily required. Diverse experiences and backgrounds can be more successful in uncovering opportunities because they are more willing to question status quo 
+- One approach is to start by evaluating problems and opportunities related to a personal interest or passion. However, be prepared to walk away if significant gaps are uncovered between the acceptance criteria and the area being explored.
+- another way to begin the process of screening potential focus areas against their acceptance criteria is to examine high-level data related to a practice area or disease state
+- Statistics to consider include the number of people affected by a condition, the clinical impact of the disease, the out- comes and costs of existing treatments, the profitability of existing treatments, and the rate at which spending is growing 
+
+**Global Considerations in Choosing a Strategic Focus**
+- The fundamental process for choosing a strategic focus is the same regardless of location but innovators are encouraged to make their geographic focus an explicit part of their internal and external analysis before making a decision.
+- Innovators exploring strategic focus areas in emerging markets face an increased level of risk (IP, regulatory, familiarity w/ market)
+- A critical aspect of the biodesign innovation process is the ability to gain a deep understanding and a true sense of empathy for the patients being targeted, no matter where they are located. 
 
 
+**Ethics in the Biodesign Process**
 
 ### Needs Exploration 
 
