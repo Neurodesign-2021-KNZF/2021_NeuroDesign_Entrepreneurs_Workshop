@@ -1,5 +1,6 @@
 Startup Resources from [JHU Technology Ventures](https://ventures.jhu.edu)
-  - Key Startup Questions 
-  - Intellectual Property
-  - Translational Funding
-  - Startup Guide
+  - [Key Startup Questions](https://github.com/nhahn7/2021_NeuroDesign_Entrepreneurs_Workshop/blob/main/JHTV_resources/Key-Startup-Questions.pdf)
+  - [Intellectual Property 101](https://github.com/nhahn7/2021_NeuroDesign_Entrepreneurs_Workshop/blob/main/JHTV_resources/IP.pdf)
+  - [Translational Funding](https://github.com/nhahn7/2021_NeuroDesign_Entrepreneurs_Workshop/blob/main/JHTV_resources/Translational-Funding-App-Guide-2020.pdf)
+  - [Startup Guide](https://github.com/nhahn7/2021_NeuroDesign_Entrepreneurs_Workshop/blob/main/JHTV_resources/JHTV-Startup-Guide-2021.pdf)
+  - [Commercial Value](https://github.com/nhahn7/2021_NeuroDesign_Entrepreneurs_Workshop/blob/main/JHTV_resources/7-QUESTIONS-2020.pdf)
