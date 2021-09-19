@@ -1,3 +1,4 @@
+Notes from [*Biodesign: The Process of Innovating Medical Technologies* pgs 50-104](https://www.cambridge.org/us/academic/subjects/engineering/biomedical-engineering/biodesign-process-innovating-medical-technologies-2nd-edition?format=HB)
 # PART I: Identify
 ## Stage 1: Needs Finding 
 
